@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# C++ build artifacts
+*.o
+*.out
+*.exe
+a.out
+build/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# TMP
+neetcode 150\arrays-and-hashing\python\Contains Duplicate .py
